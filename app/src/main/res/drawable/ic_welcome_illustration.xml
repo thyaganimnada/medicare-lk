@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="200"
+    android:viewportHeight="200">
+    <!-- Large Circle Glow -->
+    <path
+        android:fillColor="#33FFFFFF"
+        android:pathData="M100,20 A80,80 0 1,0 100,180 A80,80 0 1,0 100,20 Z" />
+    <!-- White Medical Tablet/Dashboard Card -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M50,40h100c5.5,0 10,4.5 10,10v100c0,5.5 -4.5,10 -10,10H50c-5.5,0 -10,-4.5 -10,-10V50c0,-5.5 4.5,-10 10,-10z" />
+    <!-- Header Bar on Tablet -->
+    <path
+        android:fillColor="#E0F4F5"
+        android:pathData="M50,40h100v30H50z" />
+    <!-- Pulse Line on Header -->
+    <path
+        android:strokeColor="#12A2B0"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M65,55h15l5,-10l8,20l6,-10h20" />
+    <!-- Dashboard Widget 1 (Blue) -->
+    <path
+        android:fillColor="#12A2B0"
+        android:pathData="M55,80h40v30H55z" />
+    <!-- Dashboard Widget 2 (Light Teal) -->
+    <path
+        android:fillColor="#E0F4F5"
+        android:pathData="M105,80h40v50H105z" />
+    <!-- Dashboard Widget 3 (Teal Pill) -->
+    <path
+        android:fillColor="#12A2B0"
+        android:pathData="M55,120h40v20H55z" />
+    <!-- Doctor/Patient Silhouette Circle -->
+    <path
+        android:fillColor="#12A2B0"
+        android:pathData="M140,140 A20,20 0 1,0 140,180 A20,20 0 1,0 140,140 Z" />
+    <!-- Cross Symbol in Circle -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M157,150h6v7h7v6h-7v7h-6v-7h-7v-6h7v-7z" />
+</vector>

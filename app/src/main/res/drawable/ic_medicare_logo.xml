@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="128dp"
+    android:height="128dp"
+    android:viewportWidth="128"
+    android:viewportHeight="128">
+
+    <!-- Clean White Circular Canvas Background for Contrast -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M64,4 C30.86,4 4,30.86 4,64 C4,97.14 30.86,124 64,124 C97.14,124 124,97.14 124,64 C124,30.86 97.14,4 64,4 Z" />
+
+    <!-- Outer Swirling Heart Arc - Left Deep Blue Branch -->
+    <path
+        android:strokeWidth="6.5"
+        android:strokeColor="#0288D1"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M 62,106 C 36,92 18,72 18,52 C 18,36 30,22 46,22 C 55,22 63,27 68,34" />
+
+    <!-- Outer Swirling Heart Arc - Inner Left Cyan Accent -->
+    <path
+        android:strokeWidth="5"
+        android:strokeColor="#00B4D8"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M 64,98 C 42,86 26,68 26,52 C 26,40 35,28 47,28" />
+
+    <!-- Outer Swirling Heart Arc - Right Teal Branch -->
+    <path
+        android:strokeWidth="6.5"
+        android:strokeColor="#0F766E"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M 62,106 C 88,92 106,72 106,52 C 106,36 94,22 78,22 C 73,22 68,24 64,28" />
+
+    <!-- Outer Swirling Heart Arc - Inner Right Cyan Accent -->
+    <path
+        android:strokeWidth="5"
+        android:strokeColor="#06B6D4"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M 64,98 C 82,86 98,68 98,52 C 98,40 89,28 77,28" />
+
+    <!-- Central Medical Cross (Deep Blue / Dark Navy) -->
+    <path
+        android:fillColor="#0A2540"
+        android:pathData="M 52,40 L 76,40 C 78.2,40 80,41.8 80,44 L 80,52 L 88,52 C 90.2,52 92,53.8 92,56 L 92,72 C 92,74.2 90.2,76 88,76 L 80,76 L 80,84 C 80,86.2 78.2,88 76,88 L 52,88 C 49.8,88 48,86.2 48,84 L 48,76 L 40,76 C 37.8,76 36,74.2 36,72 L 36,56 C 36,53.8 37.8,52 40,52 L 48,52 L 48,44 C 48,41.8 49.8,40 52,40 Z" />
+
+    <!-- Central Drop / Water-Blood Teardrop (Teardrop in Vibrant Emerald Green) -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M 64,48 C 64,48 53,63 53,70 C 53,76.08 57.92,81 64,81 C 70.08,81 75,76.08 75,70 C 75,63 64,48 64,48 Z" />
+
+    <!-- Drop Highlight / Glint -->
+    <path
+        android:fillColor="#A7F3D0"
+        android:pathData="M 60,63 C 58,66 58,69 58,71 C 56.5,69 56.5,66 58,63 Z" />
+
+    <!-- Sun Icon - Circle at Top Right -->
+    <path
+        android:fillColor="#06B6D4"
+        android:pathData="M 88,32 A 6,6 0 1,0 88,20 A 6,6 0 1,0 88,32 Z" />
+
+    <!-- Sun Rays Radiating from Sun -->
+    <path
+        android:strokeWidth="2.5"
+        android:strokeColor="#06B6D4"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M 88,16 L 88,12 M 95,19 L 98,16 M 98,26 L 102,26 M 95,33 L 98,36 M 88,36 L 88,40" />
+
+</vector>

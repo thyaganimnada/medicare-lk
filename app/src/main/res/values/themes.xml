@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme using MaterialComponents for 100% component stability -->
+    <style name="Base.Theme.MediCare" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Color Palette -->
+        <item name="colorPrimary">@color/primary_teal</item>
+        <item name="colorPrimaryVariant">@color/primary_teal_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/accent_teal</item>
+        <item name="colorOnSecondary">@color/white</item>
+
+        <!-- Status Bar Configuration: Transparent to remove solid status bar block layer -->
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+
+    <style name="Theme.MediCare" parent="Base.Theme.MediCare" />
+</resources>

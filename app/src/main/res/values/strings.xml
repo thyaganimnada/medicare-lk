@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Application Strings -->
+    <string name="app_name">MediCare Lk</string>
+    <string name="app_tagline">Your Trusted Digital Health Partner</string>
+
+    <!-- Welcome / Onboarding Screen -->
+    <string name="welcome_title">MediCare Lk</string>
+    <string name="welcome_headline">Let\'s Get You Set Up for Success</string>
+    <string name="welcome_subhead">Organize your healthcare and manage appointments easily all in one simple, powerful app.</string>
+    <string name="btn_get_started">Get Started</string>
+
+    <!-- Login Screen -->
+    <string name="login_header_title">Log in to stay on top of your health &amp; care.</string>
+    <string name="login_card_title">Login</string>
+    <string name="dont_have_account">Don\'t Have An Account? </string>
+    <string name="sign_up">Sign Up</string>
+    <string name="email_hint">Enter your email address</string>
+    <string name="email_label">Email Address</string>
+    <string name="password_hint">Password</string>
+    <string name="password_label">Password</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="login_button">Login</string>
+
+    <!-- Register Screen -->
+    <string name="register_header_title">Create Your Account &amp; Simplify Your Healthcare</string>
+    <string name="register_card_title">Sign up</string>
+    <string name="already_have_account">Already Have An Account? </string>
+    <string name="login_link">Login</string>
+    <string name="full_name_label">Full Name</string>
+    <string name="full_name_hint">Full Name</string>
+    <string name="phone_label">Phone Number</string>
+    <string name="phone_hint">07XXXXXXXX or +947XXXXXXXX</string>
+    <string name="confirm_password_label">Confirm Password</string>
+    <string name="confirm_password_hint">Confirm Password</string>
+    <string name="dob_label">Date of Birth</string>
+    <string name="dob_hint">Select Date of Birth</string>
+    <string name="gender_label">Gender</string>
+    <string name="gender_hint">Select Gender</string>
+    <string name="address_label">Address</string>
+    <string name="address_hint">Enter home address</string>
+    <string name="emergency_contact_label">Emergency Contact Number</string>
+    <string name="emergency_contact_hint">Enter emergency phone number</string>
+    <string name="terms_and_conditions">I accept the Terms and Conditions</string>
+    <string name="create_account_button">Sign up</string>
+
+    <!-- Forgot Password Screen -->
+    <string name="forgot_password_header">Reset Your Password</string>
+    <string name="forgot_password_instructions">Enter your registered email address below and we will send you instructions to reset your password.</string>
+    <string name="send_reset_link_button">Send Reset Link</string>
+    <string name="back_to_login">Back to Login</string>
+
+    <!-- Home Dashboard Strings -->
+    <string name="nav_home">Home</string>
+    <string name="nav_doctors">Doctors</string>
+    <string name="nav_appointments">Appointments</string>
+    <string name="nav_health">Health</string>
+    <string name="nav_profile">Profile</string>
+    <string name="home_search_hint">Search by doctors...</string>
+    <string name="home_doctor_specialty">Doctor Specialty</string>
+    <string name="home_see_all">See All</string>
+    <string name="home_scheduled_consultations">Scheduled Consultations</string>
+    <string name="home_view_all">View All ↗</string>
+    <string name="home_top_doctors">Top Doctors</string>
+    <string name="home_no_appointments">No upcoming appointments</string>
+    <string name="home_book_appointment">Book an Appointment</string>
+
+    <!-- Doctor Details & Profile Strings -->
+    <string name="title_doctor_details">Doctor Details</string>
+    <string name="title_profile">Profile</string>
+    <string name="profile_health_plan">Pro Health Plan Active</string>
+    <string name="profile_health_plan_sub">Unlimited video consultations</string>
+    <string name="profile_manage">Manage</string>
+    <string name="profile_accounts">Profile &amp; accounts</string>
+    <string name="profile_add_new">Add new profile</string>
+    <string name="profile_fav_doctors">Favourite doctors</string>
+    <string name="profile_health_records">Health records</string>
+    <string name="profile_payment_history">Payment history</string>
+    <string name="profile_sign_out">Sign Out</string>
+    <string name="btn_book_appointment">Book Appointment</string>
+
+    <!-- Accessibility & Errors -->
+    <string-array name="blood_group_array">
+        <item>A+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+        <item>O+</item>
+        <item>O-</item>
+    </string-array>
+
+    <string name="desc_app_logo">MediCare LK Logo</string>
+    <string name="desc_back_button">Back</string>
+    <string name="desc_email_icon">Email Icon</string>
+    <string name="desc_password_icon">Password Icon</string>
+    <string name="desc_welcome_illustration">Healthcare Welcome Graphic</string>
+    <string name="error_email_required">Email address is required.</string>
+    <string name="error_email_invalid">Please enter a valid email address.</string>
+    <string name="error_password_required">Password is required.</string>
+    <string name="error_password_min_length">Password must be at least 8 characters.</string>
+    <string name="error_password_complexity">Password must contain an uppercase letter, lowercase letter and number.</string>
+    <string name="error_confirm_password_required">Confirm password is required.</string>
+    <string name="error_password_mismatch">Passwords do not match.</string>
+    <string name="error_full_name_required">Full name is required.</string>
+    <string name="error_full_name_min_length">Full name must be at least 2 characters.</string>
+    <string name="error_full_name_numeric">Full name cannot contain only numbers.</string>
+    <string name="error_phone_required">Phone number is required.</string>
+    <string name="error_phone_invalid">Please enter a valid Sri Lankan phone number.</string>
+    <string name="error_dob_required">Date of birth is required.</string>
+    <string name="error_dob_future">Date of birth cannot be in the future.</string>
+    <string name="error_gender_required">Please select your gender.</string>
+    <string name="error_address_required">Address is required.</string>
+    <string name="error_emergency_contact_required">Emergency contact number is required.</string>
+    <string name="error_emergency_contact_invalid">Please enter a valid emergency contact phone number.</string>
+    <string name="error_terms_required">You must accept the Terms and Conditions.</string>
+    <string name="msg_validation_passed">Validation passed. Ready for Firebase Authentication integration.</string>
+    <string name="msg_reset_link_validation_passed">Validation passed. Ready to send reset email via Firebase.</string>
+    <string name="appointment">Appointment</string>
+</resources>

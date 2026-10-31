@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Glassmorphism 78% transparent white glass fill -->
+    <solid android:color="#C8FFFFFF" />
+    <!-- Subtle glass edge reflection highlight -->
+    <stroke
+        android:width="1.5dp"
+        android:color="#66FFFFFF" />
+    <corners
+        android:topLeftRadius="32dp"
+        android:topRightRadius="32dp" />
+</shape>

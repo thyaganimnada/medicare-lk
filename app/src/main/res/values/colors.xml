@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Prototype Theme Colors -->
+    <color name="primary_teal">#0D9488</color>
+    <color name="primary_teal_dark">#0F766E</color>
+    <color name="primary_teal_light">#CCFBF1</color>
+    <color name="accent_teal">#06B6D4</color>
+
+    <!-- Brand Blue / Soft Accents -->
+    <color name="brand_blue">#1E88E5</color>
+    <color name="brand_blue_light">#DBEAFE</color>
+    <color name="brand_blue_card">#EFF6FF</color>
+    <color name="brand_blue_accent">#3B82F6</color>
+
+    <!-- Neutral Colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="screen_bg_light">#F8FAFC</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#0F172A</color>
+    <color name="text_secondary">#64748B</color>
+    <color name="text_hint">#94A3B8</color>
+    <color name="text_link">#0D9488</color>
+
+    <!-- Input Field Colors -->
+    <color name="input_bg">#FFFFFF</color>
+    <color name="input_stroke">#E2E8F0</color>
+    <color name="input_stroke_focused">#0D9488</color>
+
+    <!-- Status & Rating Colors -->
+    <color name="rating_gold">#F59E0B</color>
+    <color name="error_red">#EF4444</color>
+    <color name="success_green">#10B981</color>
+    <color name="disabled_gray">#CBD5E1</color>
+
+    <!-- Badge Colors -->
+    <color name="badge_upcoming_bg">#DBEAFE</color>
+    <color name="badge_upcoming_text">#1E40AF</color>
+    <color name="badge_completed_bg">#D1FAE5</color>
+    <color name="badge_completed_text">#065F46</color>
+    <color name="badge_cancelled_bg">#FEE2E2</color>
+    <color name="badge_cancelled_text">#991B1B</color>
+    <color name="badge_open_bg">#FEF3C7</color>
+    <color name="badge_open_text">#92400E</color>
+</resources>

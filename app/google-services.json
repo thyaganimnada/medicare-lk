@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "254302206220",
+    "firebase_url": "https://medicare-lk-8cece-default-rtdb.firebaseio.com",
+    "project_id": "medicare-lk-8cece",
+    "storage_bucket": "medicare-lk-8cece.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254302206220:android:7a6894a2bec330df2ab129",
+        "android_client_info": {
+          "package_name": "com.medicarelk.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBySrPtpAglw_0LYMUw6LDnjGYDy7Jt0DY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254302206220:android:c9ae5196e3a6a3ed2ab129",
+        "android_client_info": {
+          "package_name": "com.ndev.medicarelk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBySrPtpAglw_0LYMUw6LDnjGYDy7Jt0DY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

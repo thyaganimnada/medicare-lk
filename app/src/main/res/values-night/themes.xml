@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme for night mode -->
+    <style name="Base.Theme.MediCare" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Color Palette -->
+        <item name="colorPrimary">@color/primary_teal</item>
+        <item name="colorPrimaryVariant">@color/primary_teal_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/accent_teal</item>
+        <item name="colorOnSecondary">@color/white</item>
+
+        <!-- Status Bar Configuration -->
+        <item name="android:statusBarColor">@color/primary_teal</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>
